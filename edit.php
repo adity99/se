@@ -9,6 +9,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        body {
+            background-image: url('https://png.pngtree.com/background/20231031/original/pngtree-illuminated-bull-hologram-dominates-forex-chart-in-prosperous-market-investing-and-picture-image_5813301.jpg');
+            background-size: cover;
+            background-position: center;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        </style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +30,7 @@
     <title>Change Profile</title>
 </head>
 <body>
+
     <div class="nav">
         <div class="logo">
             <p><a href="home.php"> Logo</a></p>
